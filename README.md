@@ -1,11 +1,11 @@
-# YouTube Plus (ex. YTLite)
+# YouTube Plus
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 >[!IMPORTANT]
 > **Report issue(s) [here](https://github.com/dayanch96/YTLite/issues)**
 
 # Downloads
 - Jailed (Normal and Trollstore): [here](https://github.com/RiseBlox/YouTubeLite/releases/latest)
-- Jailbroken (Rootfull and Rootless): N/A
+- Jailbroken (Rootfull and Rootless): [here](https://github.com/dayanch96/YTLite/releases/latest)
 
 ## Screenshots
 <table>
