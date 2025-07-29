@@ -2,8 +2,10 @@
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 ## Downloads
-- Jailed (Normal and Trollstore): [here](https://github.com/RiseBlox/YouTubePlus/releases/latest)
-- Jailbroken (Rootfull and Rootless): [here](https://github.com/dayanch96/YTLite/releases/latest)
+- [iOS 16+](https://github.com/RiseBlox/YouTubePlus/releases/latest)
+- [iOS 14 and iOS 15](https://github.com/RiseBlox/YouTubePlus/releases/latest)
+- [Rootfull and Rootless](https://github.com/dayanch96/YTLite/releases/latest)
+- [Cyan and TrollFools](https://github.com/RiseBlox/YouTubePlus/releases/tag/v5.2b2_Cyan_TrollFools)
 
 ## Table of Contents
 - [Screenshots](#screenshots)
