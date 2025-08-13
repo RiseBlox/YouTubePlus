@@ -3,9 +3,9 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 
 ## Downloads
 - [iOS 16+](https://github.com/RiseBlox/YouTubePlus/releases/latest)
-- [iOS 14 and iOS 15](https://github.com/RiseBlox/YouTubePlus/releases/tag/v5.2b2_19.20.2%2B20.21.6)
+- [iOS 14 and iOS 15](https://github.com/RiseBlox/YouTubePlus/releases/tag/v5.2b3_19.20.2%2B20.21.6)
 - [Rootfull and Rootless](https://github.com/dayanch96/YTLite/releases/latest)
-- [Cyan and TrollFools](https://github.com/RiseBlox/YouTubePlus/releases/tag/v5.2b2_Cyan_TrollFools)
+- [Cyan and TrollFools](https://github.com/RiseBlox/YouTubePlus/releases/tag/v5.2b3_Cyan_TrollFools)
 
 ## Table of Contents
 - [Screenshots](#screenshots)
